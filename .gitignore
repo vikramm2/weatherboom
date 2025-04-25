@@ -1,0 +1,16 @@
+﻿# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Env file
+.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
